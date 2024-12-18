@@ -11,6 +11,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        questrial: ["var(--questrial)", "sans-serif"],
+        syne: ["var(--syne)", "serif"],
+        lulo: ["var(--lulo-clean-one-bold)", "serif"],
+      },
     },
   },
   plugins: [],
